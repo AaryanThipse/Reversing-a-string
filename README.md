@@ -15,3 +15,5 @@
 https://www.javatpoint.com/reverse-a-string-in-c#:~:text=Reversing%20a%20string%20is%20the,by%20reversing%20the%20original%20string.</br>
 <br></br>
 ![image](https://user-images.githubusercontent.com/125802204/221758009-16609467-69d3-4c58-a969-373a5a657d89.png)
+<b><ins>Output</b></ins>
+<img width="935" alt="Aaryan reverse string" src="https://user-images.githubusercontent.com/124968304/234176522-307c22d0-74a4-4884-92ee-7dfb6ce6b63d.png">
